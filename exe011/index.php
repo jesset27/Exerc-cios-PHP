@@ -10,7 +10,7 @@
         <h5 class="card-title">Tatuada do 1 ao 100</h5><br>   
             <?php
             $count = 0;
-            
+            //
             // echo $tabuada2 . " x " . $tabuada . " = " . $count . "<br>";
                     for ($tabuada2 = 1; $tabuada2 <= 100; $tabuada2++) {
                         $count = 0;
